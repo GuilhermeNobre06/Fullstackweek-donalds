@@ -5,5 +5,4 @@ const ProductPage = () => {
         <input placeholder="Bora Fechar esse Projeto!" />
     </div> );
 };
- 
 export default ProductPage;
